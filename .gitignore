@@ -1,0 +1,12 @@
+*~
+.*.sw?
+.DS_Store
+.#*
+.bundle
+.rvmrc*
+#*
+database.yml
+db/*.sqlite3
+log/*.log
+tmp/**/*
+.idea
